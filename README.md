@@ -1,5 +1,8 @@
+
+
 # 💫 Hi 👋, I'm Jaffar Shariff
 **Technical Web Specialist | WordPress, Email & Linux Shell | AI/Web & Crypto Enthusiast**
+
 
 🔭 I’m currently working on building my Crypto Blog, WordPress projects, and learning data analysis with SQL & Power BI<br>🤝 I’m looking to collaborate on open-source projects in web hosting, WordPress, and data analytics<br>💡 I’m looking for help with improving my Python, AI/LM skills and contributing to real-world data projects<br>🌱 I’m currently learning Linux, MySQL, and Blockchain Integeration <br>💬 Ask me about website hosting issues (DNS, email, WordPress), troubleshooting, or Crypto analysis basics
 
